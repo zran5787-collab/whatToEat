@@ -360,6 +360,12 @@
     "source_path": "dishes/vegetable_dish/油醋爆蛋.md"
   },
   {
+    "name": "澳门湿版免治牛肉饭",
+    "category": "荤菜",
+    "link": "dishes/meat_dish/澳门湿版免治牛肉饭",
+    "source_path": "dishes/meat_dish/澳门湿版免治牛肉饭.md"
+  },
+  {
     "name": "巴基斯坦牛肉咖喱",
     "category": "荤菜",
     "link": "dishes/meat_dish/巴基斯坦牛肉咖喱/巴基斯坦牛肉咖喱",
@@ -1152,6 +1158,12 @@
     "source_path": "dishes/breakfast/桂圆红枣粥.md"
   },
   {
+    "name": "韩国麻药鸡蛋",
+    "category": "早餐",
+    "link": "dishes/breakfast/韩国麻药鸡蛋",
+    "source_path": "dishes/breakfast/韩国麻药鸡蛋.md"
+  },
+  {
     "name": "鸡蛋三明治",
     "category": "早餐",
     "link": "dishes/breakfast/鸡蛋三明治",
@@ -1258,6 +1270,12 @@
     "category": "早餐",
     "link": "dishes/breakfast/燕麦鸡蛋饼",
     "source_path": "dishes/breakfast/燕麦鸡蛋饼.md"
+  },
+  {
+    "name": "意式香肠北非蛋",
+    "category": "早餐",
+    "link": "dishes/breakfast/意式香肠北非蛋",
+    "source_path": "dishes/breakfast/意式香肠北非蛋.md"
   },
   {
     "name": "蒸花卷",
@@ -1882,6 +1900,12 @@
     "category": "饮料",
     "link": "dishes/drink/柠檬水/柠檬水",
     "source_path": "dishes/drink/柠檬水/柠檬水.md"
+  },
+  {
+    "name": "牛油果拉西",
+    "category": "饮料",
+    "link": "dishes/drink/牛油果拉西",
+    "source_path": "dishes/drink/牛油果拉西.md"
   },
   {
     "name": "奇异果菠菜特调",
