@@ -402,6 +402,12 @@
     "source_path": "dishes/meat_dish/豉汁蒸白鱔/豉汁蒸白鱔.md"
   },
   {
+    "name": "葱烧鸡腿",
+    "category": "荤菜",
+    "link": "dishes/meat_dish/葱烧鸡腿",
+    "source_path": "dishes/meat_dish/葱烧鸡腿.md"
+  },
+  {
     "name": "带把肘子",
     "category": "荤菜",
     "link": "dishes/meat_dish/带把肘子",
