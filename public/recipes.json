@@ -162,6 +162,12 @@
     "source_path": "dishes/vegetable_dish/金针菇日本豆腐煲.md"
   },
   {
+    "name": "韭菜炒蛋",
+    "category": "素菜",
+    "link": "dishes/vegetable_dish/韭菜炒蛋/韭菜炒蛋",
+    "source_path": "dishes/vegetable_dish/韭菜炒蛋/韭菜炒蛋.md"
+  },
+  {
     "name": "烤茄子",
     "category": "素菜",
     "link": "dishes/vegetable_dish/烤茄子/烤茄子",
