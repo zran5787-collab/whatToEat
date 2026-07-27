@@ -378,6 +378,12 @@
     "source_path": "dishes/vegetable_dish/油醋爆蛋.md"
   },
   {
+    "name": "奥尔良风味烤鸡腿",
+    "category": "荤菜",
+    "link": "dishes/meat_dish/奥尔良风味烤鸡腿/奥尔良风味烤鸡腿",
+    "source_path": "dishes/meat_dish/奥尔良风味烤鸡腿/奥尔良风味烤鸡腿.md"
+  },
+  {
     "name": "澳门湿版免治牛肉饭",
     "category": "荤菜",
     "link": "dishes/meat_dish/澳门湿版免治牛肉饭/澳门湿版免治牛肉饭",
